@@ -9,7 +9,7 @@ public class HomeWorkCollection {
         ArrayList<String> list = new ArrayList<>(Arrays.asList("Иванов", "Сидоров", "Иванов", "Федоров", "Иванов",
                 "Петров", "Сидоров", "Федоров", "Иванов", "Тимофеев", "Тихонов", "Сидоров", "Иванов", "Иванов", "Петров",
                 "Тихонов", "Иванов", "Сидоров", "Петров", "Тимошенко", "Иванов", "Игнатов", "Иванов", "Петров"));
-        //processArray(list);
+        processArray(list);
 
         PhoneBook phoneBook = new PhoneBook();
         phoneBook.add("Григорьев", "123");
