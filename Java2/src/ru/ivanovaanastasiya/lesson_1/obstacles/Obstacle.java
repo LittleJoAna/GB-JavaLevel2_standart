@@ -1,0 +1,1 @@
+package ru.ivanovaanastasiya.lesson_1.obstacles;import ru.ivanovaanastasiya.lesson_1.participants.Participant;public abstract class Obstacle {    public abstract void doIt(Participant p);    public abstract int getValue();}
